@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/screen.git]
+checkout = vcsh clone https://github.com/hardware/config-screen.git screen

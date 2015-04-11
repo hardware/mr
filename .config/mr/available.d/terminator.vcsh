@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/terminator.git]
+checkout = vcsh clone https://github.com/hardware/config-terminator.git terminator
